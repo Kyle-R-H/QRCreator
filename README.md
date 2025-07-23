@@ -4,7 +4,7 @@ Quick QR code generator
 ## How to use
 ### Versions
 **Exe Version:**
-Simply copy the exe (dist\QRCreator.exe) to your local system and run. It may trigger your ad blocker, I promise it's safe.
+Simply copy the exe (QRCreator_x.exe) to your local system and run. It may trigger your ad blocker, I promise it's safe.
 
 **Python Version:**
 Just have python installed as well as pip packages (imports at top of the file)(pip install package_name, google if needed) and run.
